@@ -1,0 +1,34 @@
+.page2{
+    /* border: 2px solid red; */
+    margin: 40px 65px;
+    padding: 20px;
+    margin-bottom: 300px;
+}
+.page2 h1{
+   font-size: 25px;
+   font-weight: 500;
+}
+.page2 h1:hover{
+  color: deepskyblue;
+  cursor: pointer;
+}
+.page2-box{
+    margin: 30px;
+}
+
+.page2-box p{
+    margin: 8px 0;
+}
+.edit-logo{
+    font-size: 50px;
+    float: right;
+    color: rgb(239, 182, 60);
+    cursor: pointer;
+    
+}
+.edit-logo:hover{
+   
+    color: rgb(1, 231, 243);
+    transition: all 0.5s;
+    
+}

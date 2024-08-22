@@ -1,0 +1,23 @@
+.home-pg1{
+    height: 40vh;
+}
+.head-box{
+    border: 2px solid rgb(0, 0, 1);
+    padding: 25px;
+    border-radius: 10px;
+    
+    background: linear-gradient(267deg,rgb(0, 255, 251),rgb(6, 44, 149));
+    cursor: pointer;
+}
+.head-box:hover{
+    transform: scale(0.5s);
+    background: linear-gradient(267deg,rgb(255, 30, 0),rgb(228, 239, 74));
+    border-width: 5px;
+   
+
+    
+}
+.head-box h1{
+    font-size: 22px;
+
+}
