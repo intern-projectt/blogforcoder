@@ -43,5 +43,10 @@ React Router is used to handle navigation between different pages of the applica
 Additional Notes:
 Authentication: (Optional) You can add user authentication to ensure only authorized users can create, edit, or delete posts.
 Styling: Use CSS or a library like Bootstrap for styling the application.
-Deployment: The application can be deployed using platforms like Heroku (for the backend) and Netlify or Vercel (for the frontend).
+Deployment: The application can be deployed using platforms like render (for the backend) and Netlify  (for the frontend).
 This project demonstrates a solid understanding of full-stack development using the MERN stack, from setting up the server and API endpoints to building a responsive and interactive user interface.
+
+
+
+
+
